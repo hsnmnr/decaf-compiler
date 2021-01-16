@@ -1,0 +1,34 @@
+<COMMENT, //Write Lexical Analyzer output to the following input code:>
+<KEYWORD, int>
+<IDENTIFIER, sum>
+<L PRANTHESIS, (>
+<KEYWORD, int>
+<IDENTIFIER, a>
+<Punctuation, ,>
+<KEYWORD, int>
+<IDENTIFIER, b>
+<R PRANTHESIS, )>
+<L BRACES, {>
+<KEYWORD, int>
+<IDENTIFIER, t>
+<Punctuation, ,>
+<IDENTIFIER, x>
+<Punctuation, ,>
+<IDENTIFIER, y>
+<Punctuation, ,>
+<IDENTIFIER, ioman>
+<Punctuation, ;>
+<IDENTIFIER, t>
+<OPERATOR, =>
+<IDENTIFIER, a>
+<, ++>
+<IDENTIFIER, b>
+<Punctuation, ;>
+<KEYWORD, return>
+<IDENTIFIER, t>
+<Punctuation, ;>
+<R BRACES, }>
+<COMMENT, /* ka
+ka
+ka
+*/>

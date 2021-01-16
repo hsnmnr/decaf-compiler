@@ -1,0 +1,14 @@
+//Write Lexical Analyzer output to the following input code:
+
+int sum(int a, int b)
+{
+int t, x, y, ioman;
+t = a++b;
+return t;
+}
+
+
+/* ka
+ka
+ka
+*/

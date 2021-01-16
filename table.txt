@@ -1,0 +1,11 @@
+ID1		sum
+ID2		a
+ID3		b
+ID4		t
+ID5		x
+ID6		y
+ID7		ioman
+ID8		t
+ID9		a
+ID10		b
+ID11		t
